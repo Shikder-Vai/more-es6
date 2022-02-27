@@ -1,3 +1,7 @@
+/*
+Map er mul kaj holo akta array er moddhe loop calaya protita item ke bebohar kore onno arekta array banaya  tar maddhome show  korano
+*/
+
 // const numbers = [2, 3, 4, 5, 6, 12];
 
 // function oldS(number) {

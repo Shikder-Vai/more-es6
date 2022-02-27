@@ -22,7 +22,8 @@ Map er mul kaj holo akta array er moddhe loop calaya protita item ke bebohar kor
 
 // const addMd = (name) => "Md" + " " + name;
 const addMd = (name) => `Md ${name}`;
-
+/*
 const names = ["Mahmudul", "Shikder", "ns"];
 const output = names.map(addMd);
-console.log(output);
+*/
+// console.log(output);

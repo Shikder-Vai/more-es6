@@ -21,11 +21,12 @@ const companey = {
   regiNo: 3434343,
   itSection: { work: "Web Development", sellary: "30k", handler: "mini ns" },
   desingning: {
-    softwar: "adobi ilistator",
+    softwear: "adobi ilistator",
     Worker: "5 person",
     shift: "6 hours",
   },
 };
+const sh = companey.itSection.sellary;
 const { Worker, shift, softwar } = companey.desingning;
 const { name } = companey;
 console.log(Worker, shift, name, softwar);

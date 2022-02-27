@@ -7,9 +7,9 @@ class takmil {
     this.address = address;
     this.iMarks = iMarks;
     if (iMarks >= 50) {
-      console.log("Your are admitted");
+      console.log(this.name, "Your are admitted");
     } else {
-      console.log("Sorry Your are not admitted");
+      console.log(this.name, "Sorry Your are not admitted");
     }
   }
 }
@@ -18,6 +18,7 @@ console.log(student);
 
 //
 
+/*
 class Support {
   name;
   designation = "Support Web Dev";
@@ -38,4 +39,5 @@ const akshay = new Support("Akshay Kumar", "Dubai");
 aamir.startSession();
 salman.startSession();
 console.log(aamir, salman, sharuk, akshay);
+*/
 // console.log(salman);
